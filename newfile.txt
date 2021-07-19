@@ -1,0 +1,3 @@
+add: adds the change to the staging area
+commit: the change itself to keep record of what changed
+push: uploads to the repository the changes made
